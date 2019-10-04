@@ -1,6 +1,7 @@
 # Contributing
 
 See [Contributing](Documentation/project-docs/contributing.md) for information about coding styles, source structure, making pull requests, and more.
+Information about coding styles- nothing, making pull requests- okay done.
 
 # Developers
 
